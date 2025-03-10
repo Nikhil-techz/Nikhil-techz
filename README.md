@@ -1,3 +1,6 @@
+<h1>hello, i'm Nikhil kumar </h1> 
+<h2>i'm data anylyst.</h2> 
+
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/nikhil-kumar-245b23228) 
